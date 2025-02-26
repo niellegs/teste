@@ -33,6 +33,9 @@ A definição do problema foi dada pela antropologia, uma técnica de observaç�
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                             |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|--------------------------------------------------------------------------------|----------------------------------------|
 |Matilde Ribeiro| Registrar entradas e saídas usando o celular|Armazenar seus gastos em um lugar que não se deteriore|
+|Matilde Ribeiro| Criar uma conta que possua minhas informações pessoais| Acessar meus dados a qualquer hora|
 |Thiago Costa|Dividir a conta com mais pessoas de forma justa|Diminuir os casos em que sai lesado ao não ser pago novamente pelos seus colegas|
-|Luiza Perreira|Adquirir hábitos que construa uma relação saudável com o dinheiro|Poder utilizar seus ganhos de forma a ser benéfico para si no presente e no futuro|
+|Thiago Costa| Consultar meu histórico de entradas e gastos| Controlar e mapear meus gastos|
+|Luiza Perreira|Criar metas financeiras|Visualizar o progresso da meta até sua materialização|
+|Luiza Pereira| Mostrar gráficos financeiros | Facilitar o entendimento do balancetee geral.
 
